@@ -1,4 +1,4 @@
-const API_BASE_URL = 'mid-kial-backend-testers-d9e2a6d7.koyeb.app/';
+const API_BASE_URL = 'https://mid-kial-backend-testers-d9e2a6d7.koyeb.app/api';
 
 class TaskService {
   async getAllTasks() {
