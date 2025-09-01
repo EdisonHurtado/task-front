@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://hissing-salomi-backend-testers-6e4ea9d9.koyeb.app/api/tasks';
+const API_BASE_URL = 'https://hissing-salomi-backend-testers-6e4ea9d9.koyeb.app/api/';
 
 class TaskService {
   async getAllTasks() {
