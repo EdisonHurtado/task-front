@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://mid-kial-backend-testers-d9e2a6d7.koyeb.app/api';
+const API_BASE_URL = 'https://extraordinary-jeane-backend-testers1-cbbd1405.koyeb.app/api';
 
 class TaskService {
   async getAllTasks() {
