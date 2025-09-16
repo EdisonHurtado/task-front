@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://taskhx-0-1-0.onrender.com';
+const API_BASE_URL = 'https://taskhx-0-1-0.onrender.com/api';
 
 class TaskService {
   async getAllTasks() {
